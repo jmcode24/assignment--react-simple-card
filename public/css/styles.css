@@ -1,0 +1,10 @@
+.cont-border {
+  border: 1px solid black;
+  /* box-shadow: 1px 1px  10px 10px brown; */
+  box-shadow: 5px 10px brown;
+}
+
+.content-image {
+  width: 100%;
+  height: 100%;
+}
